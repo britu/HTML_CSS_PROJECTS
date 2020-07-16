@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    background: cadetblue;
+}
+.box2{
+    background: darkslateblue;
+    color: white;
+}
+
+.box3{
+    background: darksalmon;
+}
+
+body{
+    background-color: rgba(242, 239, 239, 0.988);
+}
+
+main{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 20px;
+    
+}
+.box2{
+    display: inline-flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+
+.box3{
+    
+}
+
+.box1{
+   
+}

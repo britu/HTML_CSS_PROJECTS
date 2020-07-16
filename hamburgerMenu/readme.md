@@ -1,0 +1,2 @@
+## Humberger menu
+  Three line menu with animation and it's typically placed in a top corner of a graphical user interface. its function is to toggle a menu or navigation bar between being collapsed behind the button or displayed on the screen.
